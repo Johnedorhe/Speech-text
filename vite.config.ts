@@ -9,5 +9,5 @@ export default defineConfig({
     open: true,
     port: 3001
   },
-  base: "/speech-to-text-app"
+  base: "/Speech-text/"
 })
