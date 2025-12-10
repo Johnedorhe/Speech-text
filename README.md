@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Speech to Text App
 
 A simple React app that converts speech to text using your microphone. Features include saving, discarding, and deleting notes, as well as a light/dark mode toggle.
@@ -64,3 +65,7 @@ export default defineConfig([
   },
 ])
 ````
+=======
+# Speech-to-text-app
+This is a very simple and easy to use app that allows the user create notes using their voice
+>>>>>>> 5b55662f0027fcf31a59b9495f14e7f1f6dd9205
